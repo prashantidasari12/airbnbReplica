@@ -1,0 +1,18 @@
+{
+  "name": "airbnbreplica",
+  "version": "1.0.0",
+  "description": "airbnb app with graphql,postgres and react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "airbnbReplica"
+  },
+  "keywords": [
+    "airbnb"
+  ],
+  "author": "Prashanti",
+  "license": "ISC"
+}
